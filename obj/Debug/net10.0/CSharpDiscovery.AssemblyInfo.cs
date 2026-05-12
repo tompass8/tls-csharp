@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpDiscovery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d167e5e8d86b8ec2054ca3bde9c28091edda12a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea7a6c7b73e5c917fa8d127fdbe351062bf06f9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpDiscovery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpDiscovery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
