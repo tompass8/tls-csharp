@@ -1,0 +1,14 @@
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\bin\Debug\net10.0\CSharpDiscovery.exe
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\bin\Debug\net10.0\CSharpDiscovery.deps.json
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\bin\Debug\net10.0\CSharpDiscovery.runtimeconfig.json
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\bin\Debug\net10.0\CSharpDiscovery.dll
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\bin\Debug\net10.0\CSharpDiscovery.pdb
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\obj\Debug\net10.0\CSharpDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\obj\Debug\net10.0\CSharpDiscovery.AssemblyInfoInputs.cache
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\obj\Debug\net10.0\CSharpDiscovery.AssemblyInfo.cs
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\obj\Debug\net10.0\CSharpDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\obj\Debug\net10.0\CSharpDiscovery.dll
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\obj\Debug\net10.0\refint\CSharpDiscovery.dll
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\obj\Debug\net10.0\CSharpDiscovery.pdb
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\obj\Debug\net10.0\CSharpDiscovery.genruntimeconfig.cache
+C:\Users\Tom Passerman\Desktop\piscine_C#\tls-csharp\tls-csharp\obj\Debug\net10.0\ref\CSharpDiscovery.dll
